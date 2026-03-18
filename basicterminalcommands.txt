@@ -1,0 +1,5 @@
+basic terminal commands - 
+cd /path/to/directory - change to the specified directory
+cd .. - move up one directory level
+cd ~ - home directory
+cd - - previous directory
