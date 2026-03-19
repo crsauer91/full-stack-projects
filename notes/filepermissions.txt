@@ -1,0 +1,17 @@
+who can interact and what they can do
+	r - read - open/view
+	w - write - modify a file
+	x - execute - run file as program or script
+who gets these permissions?
+	owner - creator
+	group - collection of users with same access level
+	others - everybody
+changing permissions - chmod command
+	symbolic
+		chmod u +x script.sh - adds execute permission for the user
+		chmod g -w file.txt - removes write permission from the group
+	numeric
+		owner/group/others 
+		read=4/write=2/execute=1
+		chmod 755 file.txt - owner gets full access, group/others can only read and execute
+		chmod 600 private.key - owner can read/write, nobody else can access0
