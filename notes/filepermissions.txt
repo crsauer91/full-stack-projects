@@ -14,4 +14,4 @@ changing permissions - chmod command
 		owner/group/others 
 		read=4/write=2/execute=1
 		chmod 755 file.txt - owner gets full access, group/others can only read and execute
-		chmod 600 private.key - owner can read/write, nobody else can access0
+		chmod 600 private.key - owner can read/write, nobody else can access
