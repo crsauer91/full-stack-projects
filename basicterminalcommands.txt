@@ -1,10 +1,9 @@
 cat <file> - display contents of file
 cd /path/to/directory - change to the specified directory
 cd .. - move up one directory level
-cd ~ - home directory
+cd or cd ~ - home directory
 cd - - previous directory
 cd - can specify absolute path as above or relative as cd ../ to go up one directory
-cd -  without arguments goes to home directory
 cp <source> <destination> - copy files
 echo "<context>" > <file> - writes context into file
 find <directory> -name <name> - search for files by name

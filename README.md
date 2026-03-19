@@ -1,3 +1,4 @@
 # full-stack-projects
-## about version control
-## basic terminal commands
+## notes
+### about version control
+### basic terminal commands
