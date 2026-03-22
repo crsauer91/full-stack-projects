@@ -13,3 +13,5 @@ this goes through how to navigate file paths
 this goes through two different ways to assign permissions systematically
 ## git
 this goes through the basics of the git language
+## git branches
+this walks through the basics of git branching
