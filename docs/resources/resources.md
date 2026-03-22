@@ -1,6 +1,6 @@
 # resources
 ## official documentation
-   - Git
+   - Git - https://git-scm.com/docs/git
    - GitHub
    - Javascript
    - Linux
