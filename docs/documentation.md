@@ -1,19 +1,19 @@
 # documentation
-## about version control
-this goes through git stuff and some basic things
-## basic terminal commands
-this goes through a bunch of the terminal commands
+- documentation.md
 ## command line
-this goes through the command line basics
-## documentation
-this file
-## file paths
-this goes through how to navigate file paths
-## file permissions
-this goes through two different ways to assign permissions systematically
-## git
-this goes through the basics of the git language
-## git branches
-this walks through the basics of git branching
+### commands
+- command-line
+- commands
+### files
+- file-paths
+- file-permissions
 ## javascript
-this walks through the extreme basics of javascript
+- javascript
+## resources
+- resources
+## version control
+- about-version-control
+### git
+- git-add-commit-push
+- git-branches
+- git-documentation
