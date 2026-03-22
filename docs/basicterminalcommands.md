@@ -1,3 +1,4 @@
+# basic terminal commands
 cat <file> - display contents of file
 cd /path/to/directory - change to the specified directory
 cd .. - move up one directory level

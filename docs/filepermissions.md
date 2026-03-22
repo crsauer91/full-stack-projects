@@ -1,12 +1,13 @@
-who can interact and what they can do
+# file permissions
+## who can interact and what they can do
 	r - read - open/view
 	w - write - modify a file
 	x - execute - run file as program or script
-who gets these permissions?
+## who gets these permissions?
 	owner - creator
 	group - collection of users with same access level
 	others - everybody
-changing permissions - chmod command
+## changing permissions - chmod command
 	symbolic
 		chmod u +x script.sh - adds execute permission for the user
 		chmod g -w file.txt - removes write permission from the group
