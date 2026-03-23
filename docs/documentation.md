@@ -7,7 +7,9 @@
 ## data structures
 - data-structures
 ### arrays
-- arrays
+- array-exercise
+- arrays.js
+- arrays.md
 ### files
 - file-paths
 - file-permissions
