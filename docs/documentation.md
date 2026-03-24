@@ -4,15 +4,16 @@
 ### commands
 - command-line
 - commands
+### files
+- file-paths
+- file-permissions
 ## data structures
 - data-structures
 ### arrays
 - array-exercise
 - arrays.js
 - arrays.md
-### files
-- file-paths
-- file-permissions
+### objects
 ## javascript
 - javascript
 ## resources
