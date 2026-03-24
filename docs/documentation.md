@@ -14,6 +14,8 @@
 - arrays.js
 - arrays.md
 ### objects
+- objects
+- objects-exercise
 ## javascript
 - javascript
 ## resources
