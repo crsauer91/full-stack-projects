@@ -1,0 +1,2 @@
+# utils
+Utils is a collection of utility functions that are used throughout the project. These functions are designed to be reusable and can be used in various parts of the codebase. They include functions for formatting dates, generating random numbers, and other common tasks that are needed in multiple places in the code. By centralizing these functions in a single location, we can reduce code duplication and improve maintainability.

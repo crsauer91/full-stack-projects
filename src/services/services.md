@@ -1,0 +1,2 @@
+# services
+This directory contains the services that are used by the application. Services are responsible for handling the business logic of the application and are typically used to interact with external APIs or databases.
