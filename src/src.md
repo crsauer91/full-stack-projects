@@ -1,0 +1,2 @@
+# src
+Contains the source code of the project. This directory is organized into subdirectories based on the different components of the project, such as `components`, `services`, and `utils`. Each subdirectory contains relevant files that contribute to the overall functionality of the application. The `src` directory is the main working area for developers, where they can implement new features, fix bugs, and maintain the codebase.

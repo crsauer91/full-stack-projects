@@ -1,5 +1,5 @@
-# documentation
-- documentation
+# docs
+- docs
 ## command line
 ### commands
 - command-line

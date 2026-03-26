@@ -1,0 +1,2 @@
+# assets
+Holds static assets for the project, such as images, icons, and fonts. These assets are used throughout the application to enhance the user interface and provide visual elements. The assets are organized into subdirectories based on their type (e.g., `images`, `icons`, `fonts`) for better organization and maintainability.

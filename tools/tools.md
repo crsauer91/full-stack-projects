@@ -1,0 +1,2 @@
+# tools
+Convenience directory for tools that are used in the project. These tools are not part of the main application but are useful for development, testing, or maintenance tasks. Each tool should have its own subdirectory with a README file explaining its purpose and usage.
