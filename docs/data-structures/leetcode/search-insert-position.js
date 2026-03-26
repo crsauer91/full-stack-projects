@@ -6,22 +6,22 @@
 
 // Search insert position
 /**
- * @param {number[]} nums
- * @param {number} target
- * @return {number}
+ * @param {number[]} nums // A sorted array of distinct integers
+ * @param {number} target // The target value to search for
+ * @return {number} // The index of the target if found, or the index where it would be inserted in order
  */
-var searchInsert = function(nums, target) {
-    let left = 0;
-    let right = nums.length - 1;
+var searchInsert = function(nums, target) { // Initialize left and right pointers for binary search
+    let left = 0; // Start of the array
+    let right = nums.length - 1; // End of the array
     
-    while (left <= right) {
-        const mid = Math.floor((left + right) / 2);
+    while (left <= right) { // Continue searching while the left pointer is less than or equal to the right pointer
+        const mid = Math.floor((left + right) / 2); // Calculate the middle index
         
-        if (nums[mid] === target) {
+        if (nums[mid] === target) { // If the target is found at the middle index
             return mid; // Target found, return its index
-        } else if (nums[mid] < target) {
+        } else if (nums[mid] < target) { // If the target is greater than the middle element, search in the right half
             left = mid + 1; // Search in the right half
-        } else {
+        } else { // If the target is less than the middle element, search in the left half
             right = mid - 1; // Search in the left half
         }
     }
